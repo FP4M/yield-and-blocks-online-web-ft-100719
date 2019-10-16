@@ -4,4 +4,4 @@
   end
 end
 
-line ([])
+line (["Tim", "Tom", "Jim"])
