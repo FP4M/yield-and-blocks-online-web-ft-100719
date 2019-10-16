@@ -3,5 +3,3 @@
     puts "Hi, #{name}"
   end
 end
-
-line (["Tim", "Tom", "Jim"])
